@@ -318,7 +318,7 @@ function App() {
                               className="gt-menu-top-link gt-menu-link-main"
                               data-menu-id="main"
                               data-tray-id={1}
-                              href="#"
+                              href="https://conference.gatech.edu"
                               id="gt-menu-toplink-main-1"
                             >
                               Home{" "}
@@ -390,7 +390,7 @@ function App() {
                               className="gt-menu-top-link gt-menu-link-main"
                               data-menu-id="main"
                               data-tray-id={2}
-                              href="#"
+                              href="https://conference.gatech.edu/sleep/"
                               id="gt-menu-toplink-main-2"
                             >
                               Sleep{" "}
@@ -503,7 +503,7 @@ function App() {
                               className="gt-menu-top-link gt-menu-link-main"
                               data-menu-id="main"
                               data-tray-id={3}
-                              href="#"
+                              href="https://conference.gatech.edu/dine/"
                               id="gt-menu-toplink-main-3"
                             >
                               Dine{" "}
@@ -562,7 +562,7 @@ function App() {
                               className="gt-menu-top-link gt-menu-link-main"
                               data-menu-id="main"
                               data-tray-id={4}
-                              href="#"
+                              href="https://conference.gatech.edu/meet/"
                               id="gt-menu-toplink-main-4"
                             >
                               Meet{" "}
