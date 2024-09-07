@@ -1,9 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 function App() {
 
+  useEffect(() => {
+    document.title = 'Conference Registration';
+  }, []);
 
   const [submitted, setSubmitted] = useState(false);
   const containerStyle = {
